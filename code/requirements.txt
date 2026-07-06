@@ -1,0 +1,17 @@
+# 深度学习核心框架
+torch==2.6.0
+torchvision==0.21.0
+
+# YOLO检测库
+ultralytics==8.4.69
+
+# 数值计算基础
+numpy>=1.26.0
+
+# 图像读取、预处理
+Pillow>=10.0.0
+
+# 数据集处理、coco标注转换
+pycocotools>=2.0.7
+tqdm
+
